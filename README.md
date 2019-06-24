@@ -13,6 +13,7 @@ likely to be a goat), but if they switch it's only 50% likely to be a goat.
 
 Logging can be enabled which outputs the result from each run of the game. This produces very long output quite quickly though!
 
+## Azure instance
 
 ## Further reading:
 http://mathworld.wolfram.com/MontyHallProblem.html
